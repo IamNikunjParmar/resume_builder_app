@@ -5,6 +5,8 @@ class Myroutes {
 
   static String resumeWorkspace = 'resume_workspace';
 
+  static String pdfPage = "pdf_Page";
+
   static String splashScreen = 'splash_screen';
 
   static String iconpath = 'assets/icons/';
@@ -66,6 +68,7 @@ class Myroutes {
       'title': 'Declaration',
       'icon': "${iconpath}declaration.png",
     },
+
 
 
 

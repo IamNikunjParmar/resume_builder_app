@@ -8,6 +8,7 @@ import 'package:resume_bulider/views/screens/education_page.dart';
 import 'package:resume_bulider/views/screens/experiences.dart';
 import 'package:resume_bulider/views/screens/home_page.dart';
 import 'package:resume_bulider/views/screens/interest_hobbies.dart';
+import 'package:resume_bulider/views/screens/pdf_page.dart';
 import 'package:resume_bulider/views/screens/personal_details.dart';
 import 'package:resume_bulider/views/screens/projects.dart';
 import 'package:resume_bulider/views/screens/references.dart';
@@ -41,6 +42,7 @@ class _MyAPPState extends State<MyAPP> {
         Myroutes.home:(context) => const HomePage(),
         Myroutes.splashScreen:(context)=>const SplashScreen(),
         Myroutes.resumeWorkspace:(context)=>const ResumeWorkspace(),
+        Myroutes.pdfPage:(context)=>const PdfPage(),
         Myroutes.buildoptions[0]['name']:(context)=>const ContactInfo(),
         Myroutes.buildoptions[1]['name']:(context)=>const CarrierObjective(),
         Myroutes.buildoptions[2]['name']:(context)=>const PersonalDetails(),

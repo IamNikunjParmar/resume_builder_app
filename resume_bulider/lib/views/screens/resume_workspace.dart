@@ -19,6 +19,12 @@ class _ResumeWorkspaceState extends State<ResumeWorkspace> {
         leading: myBackButton(),
         title: const Text("Resume WorkSpace"),
         centerTitle: true,
+        actions: [
+          IconButton(onPressed: () {
+            Navigator.of(context).pushNamed(Myroutes.pdfPage);
+          },
+              icon: Icon(Icons.picture_as_pdf_outlined),),
+        ],
       ),
       body: Padding(
         padding: EdgeInsets.all(16),
