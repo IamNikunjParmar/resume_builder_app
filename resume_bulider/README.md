@@ -13,17 +13,14 @@
   width = "300">
 
 
-  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/2adf9c0a-df06-4f13-8f5f-1ecf426e13a0
-"
+  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/2adf9c0a-df06-4f13-8f5f-1ecf426e13a0"
   width = "300">
 
 
-  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/3e6a4df9-a2c8-41ec-8b83-cc65fa479a55
-"
+  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/7adf5791-8977-4473-8bf8-09cf27011327"
   width = "300">
 
 
-  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/3dd11f1a-1a64-4ded-9d4a-76fa8d753f32
-"
+  <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/36cbd3d9-9993-47c7-9db6-beebbfb4d9a8"
   width = "300">
 
