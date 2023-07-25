@@ -24,3 +24,17 @@
   <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/36cbd3d9-9993-47c7-9db6-beebbfb4d9a8"
   width = "300">
 
+  
+ <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/b46d3e14-0333-4ff7-abd7-f297ace5779e"
+  width = "300">
+
+
+   <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/a06c8d8d-df33-4fef-b85a-68c2d71a3cb7"
+  width = "300">
+
+   <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/2f80032c-a6aa-4a93-87fa-0084caa11ba2"
+  width = "300">
+
+
+   <img src = "https://github.com/nikunjparmar21899/resume_builder_app/assets/121547318/9e124d46-caaf-46fc-9f36-66c44f71c443"
+  width = "300">
